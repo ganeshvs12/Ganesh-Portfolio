@@ -1,4 +1,4 @@
-# Ganesh Sawant — Portfolio
+# Ganesh Sawant — Portfolio (Amitkumar-style)
 Includes photo and company badges (Abbott, NSEIT, Capgemini, C2L BIZ) rendered as simple SVG tags.
 
 ## Deploy on GitHub Pages
